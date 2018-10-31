@@ -1,0 +1,22 @@
+{
+  "name": "rest-api-jason-web-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.3.6",
+    "morgan": "^1.9.1",
+    "node-pre-gyp": "^0.11.0",
+    "nodemon": "^1.18.4",
+    "res-json": "^1.0.1"
+  }
+}
